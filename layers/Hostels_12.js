@@ -1,0 +1,1 @@
+var json_Hostels_12 = {"type":"FeatureCollection","name":"Hostels_12","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"full_id":"n10582064405","osm_id":"10582064405","osm_type":"node","tourism":"hostel","name":"Los Angeles"},"geometry":{"type":"Point","coordinates":[34.7569299,-4.8292363]}}]}

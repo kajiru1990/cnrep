@@ -1,0 +1,1 @@
+var json_Standguesthub_8 = {"type":"FeatureCollection","name":"Standguesthub_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","HubName":null,"HubDist":147.21416},"geometry":{"type":"Point","coordinates":[34.757793971901549,-4.833796368921563]}}]}

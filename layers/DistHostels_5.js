@@ -1,0 +1,1 @@
+var json_DistHostels_5 = {"type":"FeatureCollection","name":"DistHostels_5","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","HubName":"Los Angeles","HubDist":513.24588},"geometry":{"type":"MultiLineString","coordinates":[[[34.757793971901549,-4.833796368921563],[34.7569299,-4.8292363]]]}}]}

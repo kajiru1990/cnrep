@@ -1,0 +1,1 @@
+var json_Dist_Guesthouse_9 = {"type":"FeatureCollection","name":"Dist_Guesthouse_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","HubName":null,"HubDist":294.42843},"geometry":{"type":"MultiLineString","coordinates":[[[34.757793971901549,-4.833796368921563],[34.7597804,-4.8320303]]]}}]}

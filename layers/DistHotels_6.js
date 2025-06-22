@@ -1,0 +1,1 @@
+var json_DistHotels_6 = {"type":"FeatureCollection","name":"DistHotels_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","HubName":"Kashora Family Lodge","HubDist":305.84143},"geometry":{"type":"MultiLineString","coordinates":[[[34.757793971901549,-4.833796368921563],[34.7600252,-4.8321715]]]}}]}

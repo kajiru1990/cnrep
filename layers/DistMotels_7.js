@@ -1,0 +1,1 @@
+var json_DistMotels_7 = {"type":"FeatureCollection","name":"DistMotels_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","HubName":"Ollotu Lodge","HubDist":1778.31054},"geometry":{"type":"MultiLineString","coordinates":[[[34.757793971901549,-4.833796368921563],[34.7532149,-4.8183836]]]}}]}
